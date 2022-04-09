@@ -1,0 +1,30 @@
+<html>
+<head>
+  <title>las delicias de la abuela</title>
+<head>
+    <body background="fondo.jpg">
+      <h1><font face="comic sans MS" color="red"><center>LAS DELICIAS DE LA ABUELA</center></font>
+<p><font face="comic sans MS" color="red"><center>Mira el menu y antojate de todos nuestros deliciosos productos</center></font></p>
+   <font face="comic sans MS">
+<h1><font color="red">Nuestros deliciosos productos</h1>
+ <p>Ensalada de frutas $9000</p><img src="ensalada.jpeg"> 
+  <p>salpicon $7000</p><img src="salpicon.jpeg"> 
+   <p>salpihelado $9000</p><img src="salpihelado.png"> 
+    <p>cholado $7000</p><img src="cholado.webp">
+     <P>jugo en leche $5000</p><img src="jugoleche.jpeg"> 
+      <p>jugo en agua $4000</p><img src="jugoagua.jpg"> 
+       <p>jugo de mandarina $5000</p><img src="jugomandarina.png">
+      <p>granizado $6000</p><img src="granizado.png">
+     <p>banana split $8000</p><img src="bananasplit.webp">  
+    <p>limonada $4000</p><img src="limonada.jfif"> 
+   <p>limón coco $5000</p><img src="limoncoco.jpg"> 
+  <p>jugo de borojo $6000</p><img src="borojojugoso.jpg">  
+ <p>malteada $7000</p><img src="malteada.png"> 
+<p>smuttis $7000</p><img src="smutis.jpg"> 
+<p>conos $2000</p><img src="cono.png">
+<h1><font face="comic sans MS" color="red">FACEBOOK</font><h1>
+<a href="https://www.facebook.com/profile.php?id=100079784389338">las delicias de la abuela</a>
+
+</font>
+</body>
+</html>
